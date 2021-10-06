@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @luca-bogari i'm 19 and i'm studying software development.
-- 👀 I’m interested in new technologies and I want to enter the development industry and specialize as a software dev.
-- 🌱 I’m currently learning Java, HTML, CSS, JavaScript and Python.
-- 💞️ I’m looking for my first job bacancy.
+- 👋 Hi, I’m @luca-bogari i'm 19 and i'm software developer.
+- Full-stack Javascript.
+- 👀 I’m interested in new technologies.
 - 📫 How to reach me, 
-              email: lucabogarimassina@gmail.com 
+              email: lucabogarimassina@gmail.com
+              linkedIn: www.linkedin.com/in/lucabogari/
               instagram: https://www.instagram.com/luca_bogari/ 
 
 <!---
