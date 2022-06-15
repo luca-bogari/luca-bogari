@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @luca-bogari i'm 20 and i'm software developer.
 - Full-stack Javascript.
-- 👀 I’m interested in new technologies.
-- 📫 How to reach me, 
+- 📫 How to reach me,
               email: lucabogarimassina@gmail.com
               linkedIn: www.linkedin.com/in/lucabogari/
               instagram: https://www.instagram.com/luca_bogari/ 
