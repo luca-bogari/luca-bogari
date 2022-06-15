@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @luca-bogari i'm 19 and i'm software developer.
+- 👋 Hi, I’m @luca-bogari i'm 20 and i'm software developer.
 - Full-stack Javascript.
 - 👀 I’m interested in new technologies.
 - 📫 How to reach me, 
